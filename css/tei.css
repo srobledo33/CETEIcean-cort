@@ -20,9 +20,13 @@ tei-persname {
 
 
 tei-abbr {
-  display: hidden; 
+  display: none;
 }
 
 tei-expan {
   color: green; 
+}
+
+tei-del {
+  text-decoration: line-through red 1pt;
 }

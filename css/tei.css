@@ -1,0 +1,16 @@
+tei-body {
+  font-family: "Junicode Two Beta";
+  font-size: 12pt;
+}
+
+tei-head {
+  display: block;
+  color:cornflowerblue;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+}
+
+tei-p {
+  display: block;
+}

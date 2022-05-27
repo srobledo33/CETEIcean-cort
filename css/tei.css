@@ -19,4 +19,10 @@ tei-persname {
 }
 
 
+tei-abbr {
+  display: hidden; 
+}
 
+tei-expan {
+  color: green; 
+}

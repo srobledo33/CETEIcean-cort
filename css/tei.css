@@ -33,7 +33,6 @@ tei-del {
 
 
 tei-add {
-  /* text-decoration: underline solid 1pt green; */
   text-decoration-line: underline;
   text-decoration-style: wavy;
   text-decoration-color: green;

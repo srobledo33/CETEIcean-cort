@@ -30,3 +30,19 @@ tei-expan {
 tei-del {
   text-decoration: line-through red 1pt;
 }
+
+
+tei-add {
+  /* text-decoration: underline solid 1pt green; */
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: green;
+}
+
+tei-quote {
+  margin-top: 0.2cm;
+  margin-bottom: 0.2cm;
+  margin-left: 1cm;
+  display: block;
+  font-size: smaller;
+}

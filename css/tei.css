@@ -14,6 +14,7 @@ tei-head {
 tei-p {
   display: block;
   padding-bottom: 3mm;
+  text-align: justify;
 }
 
 tei-persname {
@@ -30,7 +31,7 @@ tei-expan {
 }
 
 tei-del {
-  text-decoration: line-through red 1pt;
+  text-decoration: line-through red 1.5pt;
 }
 
 
@@ -46,4 +47,5 @@ tei-quote {
   margin-left: 1cm;
   display: block;
   font-size: smaller;
+  text-align: justify;
 }

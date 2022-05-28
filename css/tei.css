@@ -12,7 +12,7 @@ tei-head {
 }
 
 tei-p {
-  display: -webkit-box;
+  display:block;
   padding-bottom: 3mm;
   text-align: justify;
 }
